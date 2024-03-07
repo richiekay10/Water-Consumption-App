@@ -1,0 +1,30 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: blue;
+}
+
+header {
+  background-color: blue;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+form {
+  margin: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 1rem;
+}
+
+li {
+  background-color: blue;
+  border: 1px solid #ccc;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
